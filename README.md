@@ -13,7 +13,7 @@
 
 #### Lien vers la vidéo Récapitulative
 
-[Résumé en vidéo]()
+[Résumé en vidéo](./resume_projet-od.mp4)
 
 #### Resultats Obtenus
 
