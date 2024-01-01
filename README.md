@@ -1,7 +1,7 @@
 ### Projet d'Outils décisionnels 
 
 #### Liste des membres
-- [FIAGNIGBE Bonkey](https://github.com/BKSYSTEM)
+- [FIAGNIGBE Bonkey](https://github.com/devBonkey)
 - [HOUNSI Madouvi Antoine-Sébastien](https://github.com/Totorino02)
 - [RABE SIBLI Christelle Fatim Alexandra](https://github.com/overflow-lady)
 
